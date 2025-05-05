@@ -11,7 +11,7 @@ module Blog
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 8.0
 
-    config.i18n.default_locale = "pt_BR"
+    config.i18n.default_locale = "pt-BR"
     config.time_zone = "Brasilia"
 
     # Please, add to the `ignore` list any other `lib` subdirectories that do
